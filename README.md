@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on **Honor Protocol**<br>
-🌱 I’m currently learning **Web Dev & Blockchain**<br>
-💬 Ask me about **Honor Protocol Dapp**<br>
-
 
 
 ## 🌐 Socials:
